@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+.style4 {
+font-size: 15px;
+font-family:Arial, Helvetica, sans-serif;
+color:#333333;
+}
+
+.style3 {
+font-size: 24px;
+font-family:Arial, Helvetica, sans-serif;
+color:#333333;
+}
+
+.titulomateria {
+	font: bold 11px  Tahoma, Verdana, Arial;
+	color: #333333;
+	text-decoration: none; 
+}
+
+.datosmateria{ 
+	font: 12px Tahoma, Verdana, Arial;
+	color: #333333;
+	line-height: 17px;
+	text-decoration: none;
+}
+.espace {
+    font-family: Arial;
+	font-size: 2px;
+	color: #004F78;
+	text-decoration:none;
+}
+.borde td
+{	
+	border-width: 1px 1px 1px 1px;
+	padding: 1px 1px 1px 1px;
+	border-style: none none inset none;
+	border-color: gray gray gray gray;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	text-decoration:none;	
+}
+
+.roja {color: #FF0000}

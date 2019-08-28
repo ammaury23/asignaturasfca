@@ -1,0 +1,2 @@
+<div class="col-4 pie"><div class="borde_pie"><br />
+Hecho en M&eacute;xico, D.R. &copy; 2018. Esta p&aacute;gina puede ser reproducida con fines no lucrativos, siempre y cuando no se mutile, se cite la fuente completa y su direcci&oacute;n electr&oacute;nica. De otra forma requiere permiso previo por escrito de la instituci&oacute;n. <a href="creditos.php">CR&Eacute;DITOS.</a> Sitio web administrado por el Centro de Inform&aacute;tica de la Facultad de Contadur&iacute;a y Administraci&oacute;n <a href="http://cifca.fca.unam.mx" target="_blank">(CIFCA).</a> </div></div>

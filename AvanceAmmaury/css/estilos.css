@@ -1,0 +1,20 @@
+ th {
+  text-align: center;
+}
+
+ tr {
+  text-align: center;
+}
+
+td {
+    color:#456789;font-size:80%;
+}
+
+nav {
+    background-color: #587141;
+}
+
+.file-field.medium .file-path-wrapper {
+height: 3rem; }
+.file-field.medium .file-path-wrapper .file-path {
+height: 2.8rem; }
