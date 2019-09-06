@@ -24,7 +24,7 @@
           <a class="nav-link" href="php/preguntas.php">Preguntas frecuentes</a>
       </li>
       <li class="nav-item">
-          <a class="nav-link" href="php/contacto.php">Contacto</a>
+          <a class="nav-link" href="php/contacto.php">Cpito</a>
       </li>
      <li class="nav-item">
           <a class="nav-link" href="php/contacto.php">Registro</a>
