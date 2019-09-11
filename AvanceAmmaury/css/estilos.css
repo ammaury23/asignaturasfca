@@ -13,6 +13,10 @@ td {
 nav {
     background-color: #587141;
 }
+h1 {
+	text-align: center;
+	padding: 40px; 
+}
 
 .file-field.medium .file-path-wrapper {
 height: 3rem; }

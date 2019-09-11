@@ -1,5 +1,16 @@
-<meta charset="UTF-8">
-<meta http-equiv="Refresh" content="0;url=http://rigel.fca.unam.mx/~li314290195/asignaturasfca/lista.php">
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<title>Registro Exitoso</title>
+	<meta charset="UTF-8">
+	<meta http-equiv="Refresh" content="5;url=http://rigel.fca.unam.mx/~li314290195/asignaturasfca/lista.php">
+	<link rel="stylesheet" href="../css/bootstrap.css">
+</head>
+<body>
+<div class="alert alert-success" role="alert">
+ Registrado Exitosamente!
+</div>
 <?php
 
 $carrera = $_POST["carrera"];
@@ -19,3 +30,5 @@ $carreras = pg_query ( $conn , "INSERT INTO asigemp (nomorg, asignatura, carrera
 // Close connection
 pg_close($conn);
 ?>
+</body>
+</html>
